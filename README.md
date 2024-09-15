@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.ttgtmedia.com/rms/onlineimages/code_g1019737194.jpg)](https://codegrills.in)
+[![logo](https://cdn.ttgtmedia.com/rms/onlineimages/code_g1019737194.jpg)](https://codegrills.in)
 
 
 <h1 align="center">Hi 👋, I'm Ajay</h1>
