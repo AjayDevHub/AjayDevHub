@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="350" src="https://media1.tenor.com/m/SxJQcg2-UGkAAAAC/working-from.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaydevhub&label=Profile%20views&color=0e75b6&style=flat" alt="ajaydevhub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaydevhub&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 - 🔭 I’m currently working on **Full Stack**
 
