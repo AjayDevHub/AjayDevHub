@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently exploring **new languages like c++, python and javascript.**
 
-- 👯 I’m looking to collaborate on **beginner-friendly web devlopment projects.**
+- 👀 I’m looking to collaborate on **beginner-friendly web devlopment projects.**
 
 - 💬 Ask me about **Web Development and c++.**
 
